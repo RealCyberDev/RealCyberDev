@@ -18,6 +18,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RealCyberDev&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-<img src="https://raw.githubusercontent.com/shaswatacharya/shaswatacharya/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/realcyberdev/realcyberdev/output/snake.svg" alt="Snake animation" />
 
 ###
