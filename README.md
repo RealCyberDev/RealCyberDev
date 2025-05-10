@@ -1,8 +1,9 @@
+<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">TheCyberDev</h1>
-<h3 align="center">Coding from the shadows | Just scripts and silence</h3>
+<h3 align="center">Coding from the shadows | Just scripts and silence<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=realcyberdev&label=%20Profile%20Views&color=002aff&style=for-the-badge&abbreviated=true&base=124" /> </p>
 
----
+
 
 ### 🧪 What I Do:
 - 💻 Build tools that do the dirty work
@@ -17,7 +18,9 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=RealCyberDev&theme=slateorange&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RealCyberDev&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
+
 <img src="https://raw.githubusercontent.com/realcyberdev/realcyberdev/output/snake.svg" alt="Snake animation" />
 
-###
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
